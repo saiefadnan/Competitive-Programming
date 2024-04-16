@@ -31,9 +31,8 @@ public:
 int main(){
     fastio
     vector<ll>t={5,1,3};
-    //vector<vector<char>>t={{'0'}};
-    //vector<vector<char>>t={{'1'}};
+    // vector<ll>t={1,1,2,2,3};
+    // vector<ll>t={1,1,1};
     cout<<Solution().reductionOperations(t);
-
     return 0;
 }
