@@ -21,6 +21,7 @@ public:
 };
 
 int main(){
+    fastio
     ListNode* head=NULL;
     ListNode* node=NULL;
     ListNode* temp=NULL;
